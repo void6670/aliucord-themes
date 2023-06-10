@@ -15,7 +15,7 @@
         "blocked_bg": -15658735
     },
     "colors": {
-        "uikit_btn_bg_color_selector_red": -1890997,
+        "uikit_btn_bg_color_selector_red": -65536,
         "reddit": -2725874,
         "reddit_500": -5089523,
         "status_red": -65536,
@@ -45,10 +45,10 @@
         "status_green_830": -13663892,
         "status_green_960": -13977966,
         "status_green": -12666214,
-        "uikit_btn_bg_color_selector_brand": -6080902,
+        "uikit_btn_bg_color_selector_brand": -65536,
         "primary_600": -4372079,
-        "link": -4372079,
-        "link_500": -4372079
+        "link": -65536,
+        "link_500": -65536
     },
     "drawable_tints": {
         "drawable_overlay_channels_selected_dark": -65536,
