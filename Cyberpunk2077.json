@@ -1,0 +1,69 @@
+{
+    "manifest": {
+        "version": "1.0",
+        "author": "! Voidii#2870",
+        "name": "Cyberpunk2077",
+        "updater": "https:\/\/raw.githubusercontent.com\/void6670\/aliucord-themes\/main\/Cyberpunk2077.json"
+    },
+    "background": {},
+    "fonts": {
+        "ginto_bold": "https://cdn.discordapp.com/attachments/1016587698582073374/1116975713329889300/AsherPunkDemoVersion-ALZJ2.ttf",
+        "whitney_bold": "https://cdn.discordapp.com/attachments/1016587698582073374/1116975713631871076/BulzingItalic-GOLRD.ttf",
+        "ginto_regular": "https://cdn.discordapp.com/attachments/1016587698582073374/1116975713988395018/CyberfontBlack-jEVvv.ttf",
+        "ginto_medium": "https://cdn.discordapp.com/attachments/1016587698582073374/1116975714730778645/Sdasian-WyDon.ttf",
+        "*": "https://cdn.discordapp.com/attachments/1016587698582073374/1116975715045359657/SpaceArmor-vmlv4.otf",
+        "whitney_semibold": "https://cdn.discordapp.com/attachments/1016587698582073374/1116975715548672010/TeroxiaDemoPersonalUse-GOxoD.otf",
+    },
+    "simple_colors": {
+        "background": -16777216,
+        "background_secondary": -16777216,
+        "mention_highlight": -65536,
+        "accent": -65536,
+        "blocked_bg": -15658735
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -1890997,
+        "reddit": -2725874,
+        "reddit_500": -5089523,
+        "status_red": -1890997,
+        "status_red_100": -1890997,
+        "status_green_100": -13063026,
+        "status_green_130": -14644625,
+        "status_green_160": -14110579,
+        "status_green_200": -13135237,
+        "status_green_230": -12666214,
+        "status_green_260": -14174318,
+        "status_green_300": -12217473,
+        "status_green_330": -12666214,
+        "status_green_360": -12284550,
+        "status_green_400": -12666214,
+        "status_green_430": -15083353,
+        "status_green_460": -12666214,
+        "status_green_500": -12666214,
+        "status_green_530": -14374778,
+        "status_green_560": -12666214,
+        "status_green_600": -12803449,
+        "status_green_630": -12666214,
+        "status_green_660": -15030141,
+        "status_green_700": -14899325,
+        "status_green_730": -13068931,
+        "status_green_760": -14962550,
+        "status_green_800": -12666214,
+        "status_green_830": -13663892,
+        "status_green_960": -13977966,
+        "status_green": -12666214,
+        "uikit_btn_bg_color_selector_brand": -6080902,
+        "primary_600": -4372079,
+        "link": -4372079,
+        "link_500": -4372079
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": 427918985,
+        "drawable_button_red": -1890997,
+        "drawable_overlay_channels_active_dark": 1065453193
+    },
+    "raws": {
+        "call_ringing": "https://github.com/void6670/aliucord-themes/blob/main/ringingcyberpunk.wav?raw=true",
+        "call_calling": "https://github.com/void6670/aliucord-themes/blob/main/callingcyberpunk.wav?raw=true"
+    }
+}
