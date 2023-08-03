@@ -3,10 +3,10 @@
         "author": "Voidiii",
         "name": "MineCord",
         "version": "1.0.0"
-        "updater": "balls"
+        "updater": "https:\/\/raw.githubusercontent.com\/void6670\/aliucord-themes\/main\/MinCord.json"
     },
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1136512695777108019/1136512977248473188/Wallpaper3.jpg",
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/1136512695777108019\/1136512977248473188\/Wallpaper3.jpg",
         "overlay_alpha": 0
     },
     "fonts": {
