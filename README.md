@@ -1,2 +1,2 @@
 # aliucord-themes
-just some themes I'll make
+just some themes I'll (maybe) make
